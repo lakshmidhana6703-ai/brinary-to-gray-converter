@@ -1,0 +1,29 @@
+
+## `output.txt`
+
+```text id="output_binary_gray"
+4-BIT BINARY TO GRAY CODE CONVERTER
+===================================
+
+Time = 0 | Binary = 0000 | Gray = 0000
+Time = 10 | Binary = 0001 | Gray = 0001
+Time = 20 | Binary = 0010 | Gray = 0011
+Time = 30 | Binary = 0011 | Gray = 0010
+Time = 40 | Binary = 0100 | Gray = 0110
+Time = 50 | Binary = 0101 | Gray = 0111
+Time = 60 | Binary = 0110 | Gray = 0101
+Time = 70 | Binary = 0111 | Gray = 0100
+Time = 80 | Binary = 1000 | Gray = 1100
+Time = 90 | Binary = 1001 | Gray = 1101
+Time = 100 | Binary = 1010 | Gray = 1111
+Time = 110 | Binary = 1011 | Gray = 1110
+Time = 120 | Binary = 1100 | Gray = 1010
+Time = 130 | Binary = 1101 | Gray = 1011
+Time = 140 | Binary = 1110 | Gray = 1001
+Time = 150 | Binary = 1111 | Gray = 1000
+
+===================================
+Simulation completed successfully.
+All 16 binary input combinations tested.
+Binary-to-Gray conversion verified.
+===================================
